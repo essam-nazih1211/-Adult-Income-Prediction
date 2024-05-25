@@ -1,4 +1,3 @@
-Project Description
 This project aims to predict whether an individual's income exceeds $50K per year based on census data from the UCI Machine Learning Repository. The dataset includes various demographic features such as age, workclass, education, occupation, gender, and more. This project involves preprocessing the data, feature engineering, training a machine learning model, and evaluating its performance.
 
 Dataset
